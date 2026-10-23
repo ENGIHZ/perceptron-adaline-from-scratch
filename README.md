@@ -28,17 +28,14 @@ The clean binary task is small and relatively easy. Perfect performance on this 
 
 ## Results & Visualizations
 
-### Decision Boundaries
-![Decision Boundaries](figures/decision_boundaries.png)
+### Perceptron Training Curves
+![Perceptron Training Curves](training_curves_perceptron.png)
 
-### Training Curves
-![Training Curves](figures/training_curves.png)
+### ADALINE Training Curves
+![ADALINE Training Curves](training_curves_adaline.png)
 
 ### Sensor Noise Robustness
-![Sensor Noise Robustness](figures/noise_robustness.png)
-
-### Confusion Matrices
-![Confusion Matrices](figures/confusion_matrices.png)
+![Sensor Noise Robustness](sensor_noise_robustness.png)
 
 ## Repository structure
 
