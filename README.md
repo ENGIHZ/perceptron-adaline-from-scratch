@@ -26,13 +26,19 @@ A reproducible educational comparison of two linear classifiers implemented **fr
 
 The clean binary task is small and relatively easy. Perfect performance on this split **does not** imply perfect real-world generalization. Differences in noise robustness are specific to these experiments.
 
-## Figures
+## Results & Visualizations
 
-![Perceptron training errors](figures/training_curves_perceptron.png)
+### Decision Boundaries
+![Decision Boundaries](figures/decision_boundaries.png)
 
-![ADALINE convergence](figures/training_curves_adaline.png)
+### Training Curves
+![Training Curves](figures/training_curves.png)
 
-![Robustness under simulated noise](figures/sensor_noise_robustness.png)
+### Sensor Noise Robustness
+![Sensor Noise Robustness](figures/noise_robustness.png)
+
+### Confusion Matrices
+![Confusion Matrices](figures/confusion_matrices.png)
 
 ## Repository structure
 
